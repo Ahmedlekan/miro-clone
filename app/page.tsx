@@ -2,6 +2,9 @@ import Image from "next/image";
 import Navbar from "@/components/navbar/Navbar";
 import HeroSection from "@/components/HeroSection";
 import SectionTwo from "@/components/SectionTwo";
+import SectionThree from "@/components/SectionThree";
+import SectionFour from "@/components/SectionFour";
+import SectionFive from "@/components/SectionFive";
 
 export default function Home() {
   return (
@@ -9,6 +12,9 @@ export default function Home() {
       <Navbar />
       <HeroSection />
       <SectionTwo />
+      <SectionThree />
+      <SectionFour />
+      <SectionFive />
     </main>
   );
 }

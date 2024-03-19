@@ -81,9 +81,9 @@ function SectionTwo() {
   };
   
   return (
-    <div className="sm:py-10 md:py-16">
+    <div className="sm:py-10 md:py-14">
       <div className='flex flex-col justify-center gap-10'>
-        <div className="text-3xl  items-center text-center font-normal relative">
+        <div className="text-3xl  items-center text-center font-normal">
             Don&apos;t start from scratch — <br /> dive right into Miro.
         </div>
 
