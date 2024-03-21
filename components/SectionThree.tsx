@@ -7,7 +7,7 @@ import Image from 'next/image';
 
 const SectionThree = () => {
   return (
-    <div className='sm:py-8 md:py-12'>
+    <div className='sm:py-8 md:py-12 px-10'>
         <div className='flex flex-col justify-center gap-10'>
             <div className="text-xl  items-center text-center font-normal">
                 Rated 4.8 out of 5,134+ G2 reviews
@@ -67,7 +67,7 @@ const SectionThree = () => {
 
             <div className="sm:mt-5 md:mt-10 relative overflow-hidden">
                 <Image src="/Images/dashboard.avif" width={1025} height={500} alt="logo"
-                    className=" sm:w-full border p-5 xl:p-10 rounded-xl"
+                    className=" sm:w-full rounded-xl"
                 />
 
                 <Image src="/Images/bg-1.png" 

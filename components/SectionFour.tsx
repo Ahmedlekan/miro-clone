@@ -4,14 +4,14 @@ import { PiArrowRight } from 'react-icons/pi';
 
 function SectionFour() {
   return (
-    <div className="py-10">
+    <div className="py-10 px-10">
         <div className="text-2xl md:text-4xl tracking-wide 
             items-center text-center font-medium"
         >
             Next big thing? No big deal. <br /> Three simple keys to the future.
         </div>
 
-        <div className='flex flex-col md:flex-row gap-5 px-16 justify-center items-center mt-10'>
+        <div className='flex flex-col md:flex-row gap-5 justify-center items-center mt-10'>
             <div className='flex flex-col'>
                 <h3 className='text-xl md:text-3xl font-normal mb-5'>Strategize & plan</h3>
                 <p className='w-full md:max-w-[70%] text-lg'>Ensure continuous alignment 
@@ -25,7 +25,7 @@ function SectionFour() {
             <Image src='/Images/homepage_01.webp' width={600} height={500} alt='homepage' />
         </div>
         
-        <div className='flex flex-col md:flex-row gap-5 px-16 justify-center items-center mt-10'>
+        <div className='flex flex-col md:flex-row gap-5 justify-center items-center mt-10'>
             <div className='flex flex-col'>
                 <h3 className='text-xl md:text-3xl font-normal mb-5'>Design customer-centric <br /> solutions</h3>
                 <p className='w-full md:max-w-[80%] text-lg'>Foster a customer-centric mindset and build 
@@ -37,7 +37,7 @@ function SectionFour() {
             <Image src='/Images/homepage_02.webp' width={600} height={500} alt='homepage' />
         </div>
         
-        <div className='flex flex-col md:flex-row gap-5 px-16 justify-center items-center mt-10'>
+        <div className='flex flex-col md:flex-row gap-5 justify-center items-center mt-10'>
             <div className='flex flex-col'>
                 <h3 className='text-xl md:text-3xl font-normal mb-5'>Develop your products & <br /> services</h3>
                 <p className='w-full md:max-w-[80%] text-lg'>Accelerate time to market with a full suite 
@@ -50,7 +50,7 @@ function SectionFour() {
             <Image src='/Images/homepage_03.webp' width={600} height={500} alt='homepage' />
         </div>
         
-        <div className='flex flex-col md:flex-row gap-5 px-16 justify-center items-center mt-[10rem]'>
+        <div className='flex flex-col md:flex-row gap-5 justify-center items-center mt-[10rem]'>
             
             <div className='flex flex-col gap-5'>
                 <h3 className='text-2xl md:text-5xl font-normal'>Connect your entire company in a single, secure platform</h3>
