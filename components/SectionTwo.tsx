@@ -15,7 +15,7 @@ const SampleNextArrow = (props:any) => {
     <div
       className="w-12 h-12 rounded-lg text-black bg-white border border-black 
       bg-opacity-40 hover:bg-black hover:text-white duration-300 cursor-pointer 
-      flex justify-center items-center z-10 absolute top-[35%] right-2 px-10"
+      flex justify-center items-center z-10 absolute top-[35%] right-2"
       onClick={onClick}
     >
       <span className="text-xl">

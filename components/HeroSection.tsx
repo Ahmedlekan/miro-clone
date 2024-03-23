@@ -17,7 +17,7 @@ function HeroSection() {
     <div className="items-center flex flex-col h-[80vh] mt-5 md:mt-10">
 
         <div className="text-3xl font-medium lg:px-0 px-8 md:text-4xl xl:text-5xl 
-        flex justify-center xl:pt-14 text-center pt-6"
+         xl:pt-14 text-center pt-6"
         >
             Enter with a dream. <br />
             Exit with the next big thing.
@@ -32,7 +32,7 @@ function HeroSection() {
             <input
                 placeholder="Enter your email"
                 type="text"
-                className='peer w-full p-2 font-light  bg-white border-2
+                className='peer w-full p-2 font-light  bg-white border border-black
                 rounded-md outline-none text-black'
             />
             <button
@@ -40,7 +40,7 @@ function HeroSection() {
                  text-white shadow-md hover:bg-blue-700"
                 type="button"
             >
-            Sign up free
+                Sign up free
             </button>
         </form>
 
