@@ -4,7 +4,7 @@ import { PiArrowRight } from 'react-icons/pi';
 
 function SectionFour() {
   return (
-    <div className="py-10 px-10">
+    <div className="py-10 md:py-144 px-10">
         <div className="text-2xl md:text-4xl tracking-wide 
             items-center text-center font-medium"
         >

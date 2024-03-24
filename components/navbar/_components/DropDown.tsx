@@ -159,11 +159,6 @@ function DropDownMenu({onClose}: DropDownMenuProps) {
                 </div>
             </div>
 
-
-            
-            
-              
-
         </Accordion>
     </div>
   )

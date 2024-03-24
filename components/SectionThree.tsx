@@ -7,7 +7,7 @@ import Image from 'next/image';
 
 const SectionThree = () => {
   return (
-    <div className='sm:py-8 md:py-12 px-10'>
+    <div className='py-8 md:py-12 px-10'>
         <div className='flex flex-col justify-center gap-10'>
             <div className="text-xl  items-center text-center font-normal">
                 Rated 4.8 out of 5,134+ G2 reviews

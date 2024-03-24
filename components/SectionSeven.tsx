@@ -6,8 +6,8 @@ import Accordion from './Accordion'
 
 function SectionSeven() {
   return (
-    <div className='sm:py-10 md:py-14 px-10'>
-        <div className='flex gap-4'>
+    <div className='py-10 md:py-14 px-10'>
+        <div className='flex flex-col md:flex-row gap-4'>
             
             <div className='flex flex-[35%] flex-col gap-4'>
                 <h3 className=' text-3xl font-medium'>
@@ -80,7 +80,9 @@ function SectionSeven() {
 
         </div>
 
-        <div className='flex flex-col md:flex-row gap-5 justify-center items-center mt-[7rem]'>
+        <div className='flex flex-col md:flex-row gap-5 justify-center 
+            items-center mt-[5rem] md:mt-[7rem]'
+        >
             
             <div className='flex flex-col gap-7'>
                 <h3 className='text-2xl md:text-5xl font-normal max-w-[500px]'>

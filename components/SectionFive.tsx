@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 function SectionFive() {
   return (
-    <div className='sm:py-10 md:py-14 px-10'>
+    <div className='py-10 md:py-14 px-10'>
       <div className=' flex flex-col justify-center items-center'>
         
         <div className='flex flex-col justify-center items-center gap-5'>

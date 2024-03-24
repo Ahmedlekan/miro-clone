@@ -112,41 +112,25 @@ const SectionSix = () => {
 
             {/* Content */}
             <div className="absolute inset-0 flex flex-col gap-5 justify-center text-white px-10 my-10">
-                <h1 className="text-4xl font-bold mb-4 w-[50%]">Helping the world’s most 
+                <h1 className=" text-2xl md:text-4xl font-normal mb-4 w-[90%] md:w-[50%]">Helping the world’s most 
                     innovative companies collaborate better, daily</h1>
-                <p className="text-lg w-[50%]">More than 180,000 organizations, including Nike, Ikea, Deloitte, WPP, and Cisco, have 
+                <p className="text-lg md:w-[50%]">More than 180,000 organizations, including Nike, Ikea, Deloitte, WPP, and Cisco, have 
                     adopted Miro to help innovate the way they innovate, with the goal of improving the speed and quality of 
                     their work.
                 </p>
 
-                <div className='flex justify-between items-center text-white'>
-                    
                     <button className='border border-black bg-white text-black
-                        py-2 px-5 rounded-lg hover:bg-black hover:text-white hover:duration-300'> 
+                        py-2 px-5 rounded-lg hover:bg-black hover:text-white hover:duration-300 w-[250px]'> 
                         See all customer stories
                     </button>
-
-                    <div className=' flex justify-center items-center gap-2'>
-                        
-                        <button className='border border-black bg-white text-black
-                            p-3 rounded-lg hover:bg-black hover:text-white hover:duration-300'
-                        >
-                           <FaLongArrowAltLeft onClick={SamplePrevArrow}/>
-                        </button>
-
-                        <button className='border border-black bg-white text-black
-                            p-3 rounded-lg hover:bg-black hover:text-white hover:duration-300'>
-                            <FaLongArrowAltRight />
-                        </button>
-                    </div>
-                </div>
+                
 
                 <div className=''>
                     <Slider {...settings}>
                         {testimonies.map((testimony,index)=>(
                             <div key={index} className=''>
-                                <div className='flex items-center gap-3 bg-white text-black 
-                                    w-[500px] p-4 rounded-lg'
+                                <div className='flex items-center gap-7 bg-white text-black 
+                                    md:w-[500px] p-4 rounded-lg'
                                 >
                                     <div className='flex flex-col gap-3'>
                                         <div className=''>{testimony.description}</div>
@@ -154,7 +138,11 @@ const SectionSix = () => {
                                         <p>{testimony.role}</p>
                                     </div>
                                     
-                                    <Image src={testimony.img} className=' object-cover rounded-lg' width={200} height={200} alt='img' />
+                                    <div className='hidden md:block'>
+                                      <Image src={testimony.img} 
+                                        className=' object-cover rounded-lg' 
+                                        width={400} height={400} alt='img' />
+                                    </div>
                                 </div>
                                 
                             </div>

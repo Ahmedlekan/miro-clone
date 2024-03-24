@@ -7,9 +7,9 @@ PiLinkedinLogoFill, PiTwitterLogoFill, PiYoutubeLogoFill } from "react-icons/pi"
 
 function Footer() {
   return (
-    <div className='sm:py-10 md:py-5 px-10 bg-black text-white'>
+    <div className='py-10 md:py-5 px-10 bg-black text-white'>
 
-        <div className=' flex flex-col'>
+        <div className='flex flex-col'>
 
             <div className='flex flex-col gap-3'>
                 <div className="text-3xl lg:px-0 px-8 md:text-5xl xl:pt-14 text-center">
@@ -90,7 +90,7 @@ function Footer() {
             </div>
 
 
-            <div className='lg:flex lg:space-x-32 md:px-0'>
+            <div className='grid grid-cols-2 justify-center lg:flex lg:space-x-32 md:px-0'>
 
                 <div className="flex-col space-y-6">
                     <div className='pt-10 font-medium text-xl'>
