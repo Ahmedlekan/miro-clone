@@ -25,7 +25,7 @@ function HeroSection() {
 
         <p className="text-xl pt-4 text-center mx-auto"
         >
-             Build, iterate, and design faster with Miro — the visual workspace for innovation.
+             Build, iterate, and design faster with diplo — the visual workspace for innovation.
         </p>
 
         <form className="max-w-screen-lg mt-8 mb-2 w-80 sm:w-96">

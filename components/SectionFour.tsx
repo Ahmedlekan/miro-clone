@@ -42,7 +42,7 @@ function SectionFour() {
                 <h3 className='text-xl md:text-3xl font-normal mb-5'>Develop your products & <br /> services</h3>
                 <p className='w-full md:max-w-[80%] text-lg'>Accelerate time to market with a full suite 
                     of capabilities designed for innovation, including diagramming, real-time data visualization, 
-                    and workshop facilitation. Miro also gives you built-in support for common product development 
+                    and workshop facilitation. Diplo also gives you built-in support for common product development 
                     processes, with agile practices like estimation and retrospectives.
                 </p>
             </div>
@@ -54,7 +54,7 @@ function SectionFour() {
             
             <div className='flex flex-col gap-5'>
                 <h3 className='text-2xl md:text-5xl font-normal'>Connect your entire company in a single, secure platform</h3>
-                <p className='w-full md:max-w-[80%] text-lg'>With enterprise-grade security at its core, Miro helps organizations 
+                <p className='w-full md:max-w-[80%] text-lg'>With enterprise-grade security at its core, Diplo helps organizations 
                     approach a Zero Trust Security philosophy. We offer advanced security integrations, robust data residency, 
                     governance solutions for sensitive data, and an accessibility program targeting Level AA Success Criteria of WCAG 2.1.
                 </p>

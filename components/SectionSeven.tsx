@@ -88,7 +88,7 @@ function SectionSeven() {
                 <h3 className='text-2xl md:text-5xl font-normal max-w-[500px]'>
                     Integrated with your favorite tools? Of course.
                 </h3>
-                <p className='w-full md:max-w-[70%] text-lg'>To make work more efficient, Miro connects 
+                <p className='w-full md:max-w-[70%] text-lg'>To make work more efficient, Diplo connects 
                     dynamically with over 130 tools across your stack. Jira, Azure DevOps, Asana, 
                     Zoom, Teams, and Slack are just some of them.
                 </p>

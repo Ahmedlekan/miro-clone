@@ -115,7 +115,7 @@ const SectionSix = () => {
                 <h1 className=" text-2xl md:text-4xl font-normal mb-4 w-[90%] md:w-[50%]">Helping the world’s most 
                     innovative companies collaborate better, daily</h1>
                 <p className="text-lg md:w-[50%]">More than 180,000 organizations, including Nike, Ikea, Deloitte, WPP, and Cisco, have 
-                    adopted Miro to help innovate the way they innovate, with the goal of improving the speed and quality of 
+                    adopted Diplo to help innovate the way they innovate, with the goal of improving the speed and quality of 
                     their work.
                 </p>
 

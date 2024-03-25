@@ -8,18 +8,18 @@ function SectionEight() {
 
             <div className='flex flex-col justify-center items-center gap-5 mb-16'>
                 <div className="text-2xl md:text-5xl max-w-[70%] items-center text-center ">
-                    Explore what others like you have created within Miroverse
+                    Explore what others like you have created within Diplo
                 </div>
                 
                 <div className="text-lg md:text-lg items-center text-center font-normal">
-                    Discover the proven workflows, projects, and frameworks of the Miro 
+                    Discover the proven workflows, projects, and frameworks of the Diplo 
                     community — or share your own!
                 </div>
                 
                 <div className='border border-black hover:cursor-pointer p-2 bg-white 
                     rounded-lg hover:bg-black hover:text-white hover:duration-300'
                 >
-                        Explore miroverse 
+                        Explore diploverse 
                 </div>
             </div>
             

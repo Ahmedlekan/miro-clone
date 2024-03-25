@@ -9,7 +9,7 @@ function SectionFive() {
         
         <div className='flex flex-col justify-center items-center gap-5'>
             <div className="text-2xl md:text-5xl items-center text-center font-normal">
-                4 of 60 million reasons to try Miro
+                4 of 60 million reasons to try Diplo
             </div>
             
             <div className="text-lg md:text-xl items-center text-center font-normal">

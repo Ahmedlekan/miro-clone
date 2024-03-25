@@ -84,7 +84,7 @@ function SectionTwo() {
     <div className="py-10 md:py-14">
       <div className='flex flex-col justify-center gap-10'>
         <div className="text-3xl  items-center text-center font-normal">
-            Don&apos;t start from scratch — <br /> dive right into Miro.
+            Don&apos;t start from scratch — <br /> dive right into diplo.
         </div>
 
         <div className=''>
