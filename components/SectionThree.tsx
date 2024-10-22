@@ -5,6 +5,7 @@ import Slider from 'react-infinite-logo-slider';
 import Image from 'next/image';
 
 
+
 const SectionThree = () => {
   return (
     <div className='py-8 md:py-12 px-10'>

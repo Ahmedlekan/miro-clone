@@ -126,6 +126,7 @@ function SectionTwo() {
           </Slider>
           )}
         </div>
+        
       </div>
 
 
