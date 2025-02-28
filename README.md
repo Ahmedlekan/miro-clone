@@ -12,9 +12,9 @@
   </div>
 </div>
 
-<h1 align="center"> 🚀 Notion Clone - Landing Page </h1>
+<h1 align="center"> 🚀 Miro Clone - Landing Page </h1>
 
-A beautiful and responsive landing page inspired by Notion, built with Next.js and modern UI technologies. This project showcases a clean, minimalistic design optimized for performance and SEO.
+A beautiful and responsive landing page inspired by Miro, built with Next.js and modern UI technologies. This project showcases a clean, minimalistic design optimized for performance and SEO.
 
 
 🌟 Features
